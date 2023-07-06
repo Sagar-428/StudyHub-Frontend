@@ -14,17 +14,17 @@ const timeline = [
     {
         Logo:Logo2,
         Heading:"Responsibility",
-        Description:"Fully commited to the success company"
+        Description:"Students will always be our top priority"
     },
     {
         Logo:Logo3,
         Heading:"Flexibility",
-        Description:"Fully commited to the success company"
+        Description:"The ability to switch is an important skills"
     },
     {
         Logo:Logo4,
         Heading:"Solve the Problem",
-        Description:"Fully commited to the success company"
+        Description:"Code your way to a solution"
     },
 ]
 const TimeLineSection = () => {
