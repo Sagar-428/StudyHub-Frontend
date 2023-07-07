@@ -11,8 +11,6 @@
 # production
 /build
 
-# env file
-.env
 
 /server/.env
 /server/node_modules
